@@ -5,3 +5,6 @@ mungkin kali ini akan ada banyak pengunaan elemen list.
 
 # Teknologi yang digunakan
 HTML5 & VScode(text editor),, No AI/Copilot
+
+# Status
+~~Dalam Pengembangan~~/Selesai-Pengembangan Berkala
